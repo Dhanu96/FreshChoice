@@ -24,7 +24,7 @@
 										<input type="hidden" name="product_id" value="{{$product_by_details->product_id}}">
 										<button type="submit" class="btn btn-fefault cart">
 											<i class="fa fa-shopping-cart"></i>
-											Add to cart
+											Add to Cart
 										</button>
 									</form>
 								</span>
