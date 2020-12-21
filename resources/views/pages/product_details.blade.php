@@ -34,7 +34,7 @@
 								<p><b>Category:</b> {{$product_by_details->category_name}}</p>
 								<p><b>Size:</b> {{$product_by_details->product_size}}</p>
 								
-							</div><!--/product-information-->
+							</div><!--/product-information -->
 						</div>
 					</div><!--/product-details-->
 					
